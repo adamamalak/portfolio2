@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "ejs": "^3.1.9",
-    "express": "^4.18.4"
+    "express": "^4.18.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.13"
+    "nodemon": "^2.0.22"
   },
   "scripts": {
-    "start": "node express.js",
-    "build": "echo \"No build steps specified\""
+    "start": "node express.js"
+
   }
 }
